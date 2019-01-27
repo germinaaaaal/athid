@@ -1,0 +1,67 @@
+#autumnal
+> phonology
+
+the phonology of áthid will take on the form of a largely fricative and alveolar-based inventory for consonants and a lot of work on /a/ and /é/ for vowels:
+
+>>consonants
+plosives — [p] [b] [t] [d] [k~g] [ʔ]
+nasals - [m] [ɲ] [n]
+fricative - [f] [θ] [s~z] [ʃ] [ʒ] [ç] [h]
+lat. frica. — [ɬ~ɮ]
+approximant — [w] [ʋ] [ɹ] [j]
+lat. approx. — [l]
+
+[allophones]: z~ʒ, ç~h
+
+>>vowels
+/u/ /y/ /i/
+/e/ /ε/ /ə/
+/a/ /ɑ/
+/o/ /ɔ/
+
+>romanisation system (general):
+
+[p] p
+[b] b
+[t] t / ḋ
+[d] d
+[k~g] c / ǵ
+[ʔ] '
+[m] m
+[ɲ] ń / ṅ
+[n] n
+[f] f
+[θ] þ / ƥ / th
+[s~z] ss / s
+[ʃ] ś / sh
+[ʒ~z] ʒ
+[ç] ć / ċ
+[h] h
+[ɬ~ɮ] ɮ (lʒ)
+[w] ɯ / w
+[ʋ] ú / v
+[ɹ] r
+[j] y / j
+[l] l
+
+/u/ u
+/y/ y
+/i/ i
+/e~ɪ/ é
+/ε/ e
+/ə/ y
+/a/ a
+/ɑ/ á
+/o~ɔ/ o / ó
+/õ/ ón
+
+>>for example
+
+ ré ran mábon  sa nawá
+/ɹɪ ɹan mɑ.bɔn sa  na.wɑ/
+
+ óndaré ćanad
+/õ.darɪ ça.nɑd/
+
+cheers,
+—casimir
