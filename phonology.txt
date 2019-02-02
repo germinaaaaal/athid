@@ -7,11 +7,12 @@ the phonology of áthid will take on the form of a largely fricative and alveola
 plosives — [p] [b] [t] [d] [k~g] [ʔ]
 nasals - [m] [ɲ] [n]
 fricative - [f] [θ] [s~z] [ʃ] [ʒ] [ç] [h]
-lat. frica. — [ɬ~ɮ]
-approximant — [w] [ʋ] [ɹ] [j]
+lat. frica. — [ɬ]
+approximant — [w] [ʋ] [ɹ~ɾ]* [j]
 lat. approx. — [l]
 
 [allophones]: z~ʒ, ç~h
+*these depend heavily on accent and season. /ɹ/ is often realized as /ʋ/ or /w/.
 
 >>vowels
 /u/ /y/ /i/
@@ -19,49 +20,69 @@ lat. approx. — [l]
 /a/ /ɑ/
 /o/ /ɔ/
 
->romanisation system (general):
+>romanization system (general):
 
 [p] p
 [b] b
-[t] t / ḋ
+[t] t
 [d] d
 [k~g] c / ǵ
 [ʔ] '
 [m] m
-[ɲ] ń / ṅ
+[ɲ] ń
 [n] n
 [f] f
-[θ] þ / ƥ / th
-[s~z] ss / s
-[ʃ] ś / sh
+[θ] þ / ý
+[s~z] s
+[ʃ] ś
 [ʒ~z] ʒ
-[ç] ć / ċ
+[ç] ć
 [h] h
-[ɬ~ɮ] ɮ (lʒ)
+[ɬ] ĺ or ź
 [w] ɯ / w
 [ʋ] ú / v
-[ɹ] r
+[ɹ~ɾ] r
 [j] y / j
 [l] l
 
 /u/ u
-/y/ y
 /i/ i
 /e~ɪ/ é
-/ε/ e
+/ε~e/ e
 /ə/ y
 /a/ a
 /ɑ/ á
-/o~ɔ/ o / ó
+/ɑ̃/ án
 /õ/ ón
+/o~ɔ/ o / ó
+
+>notes
+
+vowels:
+- "long" vowels <e, u, á, y and ó> are realized [x:].
+- all vowels are lengthened when at the end of a word.
+- these long vowels are shortened when the following consonant is a nasal or a geminated form: ámm (earth) is pronounced /amm/, not /ɑ:m/.
+
+consonants:
+- /h/ after a nasal consonant geminates the consonant.
+- /h/ after a fricative can take the form of a glottal stop [ʔ]
 
 >>examples
 
  ré ran mábon  sa nawá
-/ɹɪ ɹan mɑ.bɔn sa na.wɑ/
+/ɹɪ ɾan mɑ.bɔn sa na.wɑ/
 
  óndaré ćanad
-/õ.darɪ ça.nɑd/
+/õ.daɾɪ ça.nɑd/
+
+ rí  essylé śamhád
+/ɹi: εs:əlɪ ʃam'ɑd/
+
+ eświ!
+/eʃwi:/
+
+ aĺemid
+/aɬε.mi:d/
 
 cheers,
 —casimir
