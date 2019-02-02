@@ -3,7 +3,7 @@
 
 the phonology of áthid will take on the form of a largely fricative and alveolar-based inventory for consonants and a lot of work on /a/ and /é/ for vowels:
 
->>consonants
+>> consonants
 plosives — [p] [b] [t] [d] [k~g] [ʔ]
 nasals - [m] [ɲ] [n]
 fricative - [f] [θ] [s~z] [ʃ] [ʒ] [ç] [h]
@@ -14,13 +14,13 @@ lat. approx. — [l]
 [allophones]: z~ʒ, ç~h
 *these depend heavily on accent and season. /ɹ/ is often realized as /ʋ/ or /w/.
 
->>vowels
+>> vowels
 /u/ /y/ /i/
 /e/ /ε/ /ə/
 /a/ /ɑ/ /ɑ̃/
 /o/ /ɔ/ /õ/
 
->romanization system (general):
+> romanization system (general):
 
 [p] p
 [b] b
@@ -56,18 +56,7 @@ lat. approx. — [l]
 /õ/ ón
 /o~ɔ/ o / ó
 
->notes
-
-vowels:
-- "long" vowels <e, u, á, y and ó> are realized [x:].
-- all vowels are lengthened when at the end of a word.
-- these long vowels are shortened when the following consonant is a nasal or a geminated form: ámm (earth) is pronounced /amm/, not /ɑ:m/.
-
-consonants:
-- /h/ after a nasal consonant geminates the consonant.
-- /h/ after a fricative can take the form of a glottal stop [ʔ]
-
->>examples
+>> examples
 
  ré ran mábon  sa nawá
 /ɹɪ ɾan mɑ.bɔn sa na.wɑ/
@@ -82,7 +71,7 @@ consonants:
 /eʃwi:/
 
  aĺemid
-/aɬε.mi:d/
+/aɬε.mɪd/
 
 cheers,
 —casimir

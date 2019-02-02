@@ -1,0 +1,49 @@
+#autumnal
+> phonotactics
+
+>> examples
+ɹɪ ɾan mɑ.bɔn sa na.wɑ
+CV CVN CV CVN CV CV CV
+
+õ.da.ɾɪ ça.nɑd
+V CV CV CV NVC
+
+ɹi: ε.s:ə.lɪ ʃam'ɑd
+CV: V C:V CV CVN VC
+
+eʃ.wi:
+VC CV
+
+el.li.mand
+VC VC CVCC
+
+a.ɬε.mɪd
+V CV NVC
+
+>> stress
+no stress distinction within a word
+stress on the penultimate syllable of syntagms (clauses)
+stress on the last syllable of interrogative syntagms
+
+>> gemination
+nasals geminate, no guidelines or restrictions on gemination
+"long" vowels /e u ɑ ə o/ are realized [x:] at the end of the word
+
+*note: [ɑ], [i] become [a], [ɪ] before coda [d]
+
+>> syllable structures of áthid:
+CV, NV, V
+CVN, NVC
+
+nucleus:
+{all consonants}
+sy, st, św, śt, ĺl, geminated nasals
+
+onset:
+all vowels and geminated vowels
+
+coda:
+d, n, m, ʔ
+
+cheers,
+—casimir
