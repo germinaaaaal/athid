@@ -8,5 +8,5 @@ The phonology of áthid is heavily inspired by Laádan (by S. H. Elgin), somethi
 I am planning on using the language for my personal use in journaling and writing.
 
 # currently reviewing
-29.01.2018 phonology & romanization.
-03.02.2018 phonotactics & gemination
+- 29.01.2018 phonology & romanization.
+- 03.02.2018 phonotactics & gemination
