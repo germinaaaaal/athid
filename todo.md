@@ -1,4 +1,4 @@
-#todo
+todo:
 
 1. **phonotactics**
 2. **ergative-absolutive syntax**
