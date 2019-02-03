@@ -1,0 +1,22 @@
+> sandhi rules
+
+>>internal sandhi
+/ts/ becomes /s/
+/ar/ becomes /aur/
+plosives are voiced
+[ʃ] and [ç] can not exist in the same word: /ç/ is realized as [ʃ].
+[rd] morphs to [ɹd] (ɑr.da -> ɑɹ.da)
+
+>>external sandhi
+consonant gemination interrupted before a plosive
+/n/ -> /m/ before a plosive:
+
+ lehann + bassó  =  /lεham.bas:o/
+/lεhan:/ /bas:o/
+
+/m.d/ -> /n.d/
+
+two non-diphthong vowels are seperated by a glottal stop
+identical vowels ("biśwá áʒad") become a single geminated vowel
+vowels that match a valid diphthong ("śeśawé ónntar") merge into
+a single diphthong.
