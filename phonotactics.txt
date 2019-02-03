@@ -15,7 +15,7 @@ eʃ.wi:
 VC CV
 
 el.li.mand
-VC VC CVCC
+VC VC CVCN
 
 a.ɬε.mɪd
 V CV NVC
@@ -43,7 +43,9 @@ onset:
 all vowels and geminated vowels
 
 coda:
-d, n, m, ʔ
+d, n, m, ʔ, r
+
+[h] and [ʔ] are not allowed at the beginning of a word.
 
 cheers,
 —casimir
