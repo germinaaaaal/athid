@@ -10,6 +10,6 @@ while True:
             text = text.replace("z", "ʒ")
             text = text.replace("q", "ś")
             text = text.replace("th", "ý")
-            text = text.replace("x" "ĺ")
+            text = text.replace("x", "ĺ")
             text = text.replace("v", "ẃ")
         print(text)
