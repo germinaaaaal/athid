@@ -4,7 +4,7 @@
 the phonology of áthid will take on the form of a largely fricative and alveolar-based inventory for consonants and a lot of work on /a/ and /é/ for vowels:
 
 >> consonants
-plosives — [p] [b] [t] [d] [k~g] [ʔ]
+plosives — [p] [b] [t] [d] [k~g]
 nasals - [m] [ɲ] [n]
 fricative - [f] [θ] [s~z] [ʃ] [ʒ] [ç] [h]
 lat. frica. — [ɬ~ɮ]
@@ -29,7 +29,6 @@ diphthongs: {ɑu, εa, εɔ, aõ}
 [t] t
 [d] d
 [k~g] c / ǵ
-[ʔ] '
 [m] m
 [ɲ] ń
 [n] n

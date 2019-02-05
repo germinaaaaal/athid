@@ -1,4 +1,3 @@
-#autumnal
 > phonotactics
 
 >> examples
@@ -43,9 +42,9 @@ onset:
 all vowels and geminated vowels
 
 coda:
-d, n, m, ʔ, r
+d, n, m, r
 
-[h] and [ʔ] are not allowed at the beginning of a word.
+[h] is not allowed at the beginning of a word.
 
 cheers,
 —casimir
