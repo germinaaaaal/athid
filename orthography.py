@@ -8,8 +8,8 @@ while True:
     else:
         for char in text:
             text = text.replace("z", "ʒ")
-            text = text.replace("x", "ś")
+            text = text.replace("q", "ś")
             text = text.replace("th", "ý")
-            text = text.replace("q", "ź")
+            text = text.replace("x" "ĺ")
             text = text.replace("v", "ẃ")
         print(text)

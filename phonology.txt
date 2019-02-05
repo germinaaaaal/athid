@@ -7,7 +7,7 @@ the phonology of áthid will take on the form of a largely fricative and alveola
 plosives — [p] [b] [t] [d] [k~g] [ʔ]
 nasals - [m] [ɲ] [n]
 fricative - [f] [θ] [s~z] [ʃ] [ʒ] [ç] [h]
-lat. frica. — [ɬ]
+lat. frica. — [ɬ~ɮ]
 approximant — [w] [ʋ] [ɹ~ɾ]* [j]
 lat. approx. — [l]
 
@@ -40,7 +40,7 @@ diphthongs: {ɑu, εa, εɔ, aõ}
 [ʒ~z] ʒ
 [ç] ć
 [h] h
-[ɬ] ĺ / ź
+[ɬ~ɮ] ĺ / x
 [w] w / ƿ or [rarely] ɯ
 [ʋ] ú / v / ẃ
 [ɹ~ɾ] r
