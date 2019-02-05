@@ -1,0 +1,47 @@
+> seasonal evidentials
+
+seasonal evidentials give an indication on the time of the event on a seasonal
+scale: simply put, they are particles that decline by season/time of year, and
+by mood: indicative (the "base" mood), subjunctive (the "may" mood), and
+conditional (the "whether" mood).
+
+{note: these particles make for one of áthid's most
+exotic notions and aims to satisfy the original design paradigms of áthid}
+
+>> moods
+
+as stated above, the moods of áthid are indicative, subjunctive, and
+conditional. these two first moods are the "essential" moods, with the last
+mood simply serving as a way to express the near future which is otherwise not
+expressible in áthid {cf. verbs}
+
+>> seasonal evidentials
+
+the essential moods are expressed using the 'ná' and 'nńa' particles which in
+turn decline according to season. the conditional particle is 'iʒa', and it is
+invariable.
+
+seasonal evidentials decline by:
+
+         indicative   |   subjunctive
+                      |
+autumn       ná       |       nńa
+----------------------|------------------
+winter       nor      |       ńu
+----------------------|------------------
+spring       néi      |       ńis
+----------------------|------------------
+summer       enn      |      ńesón
+
+>> examples
+
+nná         ýoʒa     ĺaáw-ud   iýi!
+may-autumn  snow.ABS fall-past yesterday
+may snow have fallen yesterday [it being autumn]!
+
+nná śwenna yʒi!
+may fortune befall [you] this winter!
+
+nor        úypéha      rawin dewá.
+def-winter PL.pine.ABS red   be
+this winter, the pines are red.
