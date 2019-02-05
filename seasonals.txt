@@ -35,12 +35,13 @@ summer       enn      |      ńesón
 
 >> examples
 
-nná         ýoʒa     ĺaáw-ud   iýi!
+nńa         ýoʒa     ĺaáw-ud   iýi!
 may-autumn  snow.ABS fall-past yesterday
 may snow have fallen yesterday [it being autumn]!
 
-nná śwenna yʒi!
-may fortune befall [you] this winter!
+nńa        śwenna yʒi!
+may-autumn fortune come
+may fortune befall [you] at autumn!
 
 nor        úypéha      rawin dewá.
 def-winter PL.pine.ABS red   be
