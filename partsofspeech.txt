@@ -1,0 +1,54 @@
+> syntax
+
+there are six parts of speech in áthid:
+- verbs
+- nouns
+- conjunctions (introduce subsyntagms)
+- adjectives
+- seasonal particles (is the event occuring in autumn or winter, is it an
+idea, wish, or truth, etc...)
+
+>> essential syntax
+
+áthid uses ergativity. this means the language concentrates on the experiencer
+rather than the actor, an essential design paradigm.
+
+the word order of áthid is aEVA (ablative-ergative-verb-absolutive). This would
+be equivalent to an [C]OVS structure with [C] being the circonstancial
+complement. thus,
+
+"a bear eats honey in the shade" will be
+"in the shade honey [is eaten by] a brown bear" which will be
+"[this spring] in the shade honey [is eaten by] a bear that is brown"
+"[néi] śewár idi - myeĺá - iýimor - berowáa - abóne."
+néi śewár idi, myeĺá iýimor berowáa abóne.
+spring shade.LOC  honey.ERG eat.PRS bear.ABS brown
+
+> basic definitions
+
+>> verbs
+
+transitive verbs are always translated as passive to retain word order.
+intransitive verbs are translated freely.
+verbs conjugate by tense and aspect.
+
+the copula verb in áthid is ná náwa. it is invariable.
+the verb ná dewá is used as an auxiliary for the perfect and pluperfect tenses.
+
+>> nouns
+
+nouns' cases are the ablative, the ergative and the absolutive. however, the
+noun's place in a syntagm is also indicative of its function, which is likely
+how the language was able to evolve invariable plurals (berowé-bérowá-bérowáa,
+berowés plural for "bear").
+
+>> adjectives
+
+epithet adjectives come directly after the noun. they are invariable.
+the verb 'na dewá' is used with adjectives ('the sky is blue') as attributes
+like so: "the flowers are yellow" is 'ẃewannís ná śiśid dewá' (flowers are blue
+being).
+
+to turn an adjective into an adverb, it is possible to simply use the adjective
+with the phrasing 'in a [adjective] tone', which is 'ićló ĺonaći é [adjective]'
+in place of an additional ablative at the beginning of a syntagm.
